@@ -21,16 +21,11 @@ An end-to-end data analytics project on a real-world **UK-based e-commerce trans
 ```
 ecommerce-sales-dashboard/
 │
-├── data/
-│   ├── online_retail.csv             # Raw dataset
 │   └── cleaned_data.csv              # Cleaned & exported from Python
 │
-├── notebook/
 │   └── Ecommerce_Project.ipynb       # Full Python notebook (Colab)
-│
-├── dashboard/
-│   └── screenshots/
-│       └── dashboard_preview.png     # Power BI dashboard screenshot
+|
+│   └── screenshot.png                # Power BI dashboard screenshot
 │
 └── README.md
 ```
@@ -41,7 +36,7 @@ ecommerce-sales-dashboard/
 
 | Field | Detail |
 |-------|--------|
-| Source | [UCI Online Retail Dataset]() |
+| Source | [UCI Online Retail Dataset](https://github.com/santhi1701/E-Commerce-Sales-Analytics-Dashboard/blob/main/cleaned_data.xlsx) |
 | Records | ~541,000 transactions |
 | Region | UK-based online retailer |
 | Columns | InvoiceNo, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country |
