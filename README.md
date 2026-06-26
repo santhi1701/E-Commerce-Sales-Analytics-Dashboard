@@ -41,9 +41,8 @@ ecommerce-sales-dashboard/
 
 | Field | Detail |
 |-------|--------|
-| Source | [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) |
+| Source | [UCI Online Retail Dataset]() |
 | Records | ~541,000 transactions |
-| Period | December 2010 – December 2011 |
 | Region | UK-based online retailer |
 | Columns | InvoiceNo, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country |
 
@@ -87,7 +86,7 @@ Interactive dashboard built using `cleaned_data.csv`:
 
 ### Dashboard Preview
 
-![E-Commerce Sales Dashboard](dashboard/screenshots/dashboard_preview.png)
+![E-Commerce Sales Dashboard](https://github.com/santhi1701/E-Commerce-Sales-Analytics-Dashboard/blob/main/Screenshot.png)
 
 ---
 
